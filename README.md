@@ -1,7 +1,7 @@
 
 
 
-# Data Analysis of Netflix Original Films and IMDB_Scores 
+# Data Analysis of Netflix Original Films and IMDB Scores 
 
 
 - Exploratory Data Analysis
